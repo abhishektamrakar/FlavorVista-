@@ -1,22 +1,27 @@
 # FlavorVista - Restaurant Website
 
-Welcome to the FlavorVista Web repository! This project is a simple yet elegant restaurant website created with HTML, CSS, and JavaScript. It's designed to showcase the culinary delights of our restaurant and provide an engaging online experience for our customers.
+I created a dynamic and visually appealing restaurant website using HTML, CSS, and JavaScript. The website is designed to provide an engaging and user-friendly experience for visitors. It features a clean and responsive layout that adapts to different screen sizes.
 
 ## Features
 
-- **Responsive Design:** The website is crafted with a responsive layout to ensure optimal viewing on various devices.
+Homepage: The homepage welcomes visitors with an eye-catching banner, showcasing the restaurant's ambiance and a headline featuring its unique selling points.
 
-- **Menu Display:** Browse through our exquisite menu items with clear descriptions and enticing images.
+Menu Page: Visitors can explore the restaurant's diverse menu offerings with images and descriptions of each dish. The menu is categorized into sections for easy navigation.
 
-- **Reservation System:** Easily make reservations online with our user-friendly reservation system.
+Order page: here I made a order page where you can order your food by selecting the required field ,the food by your choice and the required details of your.
 
-- **Contact Information:** Find our contact details and location information for any queries or visits.
+About page : Here in about page include the details about the restaurent to attract the visitors to the restaurent.
 
+Review page : Visitors can also views the reviews of the people that the can be confident about the restaurent.
+
+Responsive Design: The website is designed to work seamlessly on desktops, tablets, and mobile devices, ensuring a consistent user experience across platforms.
+
+Interactive Elements: JavaScript is used to add interactive features like dropdown menus, image sliders,validation for reservation forms aand a quick search bar.
 ## Project Structure
 
-- `index.html`: The main HTML file containing the structure of the website.
-- `styles.css`: The stylesheet defining the visual appearance and responsiveness of the site.
-- `script.js`: JavaScript file for interactive elements and dynamic functionality.
+- `Resto.html`: The main HTML file containing the structure of the website.
+- `Resto.css`: The stylesheet defining the visual appearance and responsiveness of the site.
+- `Resto.js`: JavaScript file for interactive elements and dynamic functionality.
 
 ## Getting Started
 
@@ -28,7 +33,7 @@ Follow these steps to set up and run the FlavorVista Web project on your local m
    ```
 
 2. **Open in Browser:**
-   Open the `index.html` file in your preferred web browser.
+   Open the `Resto.html` file in your preferred web browser.
 
 3. **Explore the Website:**
    Navigate through the different sections, check the menu, and experience the seamless reservation process.
